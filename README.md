@@ -11,5 +11,11 @@ npm install aozora-bunko-utf8 -g
 $ aozora ./file.txt
 ```
 
+Before:
+![Before](./before.png)
+
+After:
+![After](./after.png)
+
 ## License
 MIT.
