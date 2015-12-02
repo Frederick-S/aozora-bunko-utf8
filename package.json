@@ -1,6 +1,6 @@
 {
   "name": "aozora-bunko-utf8",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Convert book from Aozora Bunko to readable text file.",
   "main": "index.js",
   "bin": {
