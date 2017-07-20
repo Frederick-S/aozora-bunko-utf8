@@ -1,4 +1,6 @@
 # aozora-bunko-utf8
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/aozora-bunko-utf8.svg)](https://greenkeeper.io/)
 Convert book from Aozora Bunko to readable text file.
 
 ## Installation
